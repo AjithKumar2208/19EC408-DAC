@@ -101,11 +101,13 @@ Sawtooth Wave:
 
 Square Wave : 
 
-<img width="485" height="419" alt="image" src="https://github.com/user-attachments/assets/141e098f-5015-418a-b058-6ee0dfba2bae" />
+<img width="328" height="283" alt="image" src="https://github.com/user-attachments/assets/e00db4a1-c5b2-4f1f-a8e4-0de40d2b7187" />
+
 
 Sawtooth Wave: 
 
-<img width="482" height="403" alt="image" src="https://github.com/user-attachments/assets/0f780045-02ed-48e2-90e2-bad0a6048bb6" />
+<img width="348" height="289" alt="image" src="https://github.com/user-attachments/assets/6ff82f91-43df-4cba-80a8-7661ba5bb7ba" />
+
 
 ## Result
 
